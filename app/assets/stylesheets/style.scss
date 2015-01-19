@@ -121,10 +121,11 @@ nav ul li a:hover {
 .text-over-imgblock {
   line-height: 25px;
   font-family: 'Open Sans', sans-serif;
-  width:400px;
+  width:auto;
   position:absolute;
-  top:25%;
-  left:15%;
+  top: 25%;
+  left:50%;
+  margin-left:-450px;
   z-index:11;
 }
 
@@ -152,7 +153,7 @@ nav ul li a:hover {
   color: white;
   background-color:#E56038;
   padding:10px 15px;
-  border-radius: 5px;
+  border-radius: 3px;
 }
 
 /*Search*/
