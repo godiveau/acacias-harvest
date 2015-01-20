@@ -1,7 +1,7 @@
 fr:
     layouts:
         application:
-            subtitle_h1: "Une iniative responsable"
+            subtitle_h1: "Une initiative responsable"
             new_report: "Nouveau rapport"
             reports_list: "Liste des rapports"
     welcome:
