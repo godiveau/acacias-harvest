@@ -14,12 +14,22 @@
 ActiveRecord::Schema.define(version: 20141209134910) do
 
   create_table "reports", force: true do |t|
-    t.string   "forest_name"
-    t.string   "user_name"
-    t.text     "observation"
+    t.string "forest_name"
+    t.string "user_name"
+    t.string "village"
+	t.string "gouvernorat"	
+	t.string "agricultors_visits"
+	t.string "numbers_women"
+	t.string "numbers_tree"
+	t.string "area"
+	t.string "problems"
+	t.string "formation"
+	t.string "product_sell"	
+	t.string "agricultors_name"
+    t.text "observation"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.string   "forest_photo"
+    t.string "forest_photo"
   end
 
 end
