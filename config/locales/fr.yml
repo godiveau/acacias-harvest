@@ -33,8 +33,8 @@ fr:
             area: "Superficie visitée"
             problems: "Les agriculteurs rencontrent-ils des problèmes ?"
             formation: "Les agriculteurs demandent-ils une formation ?"
-            product_sell: "Les agriculteurs ont-ils des produits à vendre?"
-            agricultors_name: "Nom des agriculteurs rencontrés"
+            product_sell: "Les agriculteurs ont-ils des produits à vendre ?"
+            agricultors_name: "Noms des agriculteurs rencontrés"
             observation: "Observation"
             send: "Envoyer"
         edit:
